@@ -4,6 +4,8 @@
 
 O **JFAAL** é uma versão revisada e atualizada da Bíblia de João Ferreira de Almeida, disponibilizada gratuitamente para uso pessoal e comercial. Este projeto visa tornar acessível uma tradução precisa e contemporânea das Escrituras, utilizando tecnologias modernas para garantir a clareza e a relevância do texto.
 
+Este projeto surgiu da minha experiência como desenvolvedor de aplicativos bíblicos. Ao tentar entrar em contato com diversas editoras para discutir questões de direitos autorais, percebi que não obtive respostas. Diante disso, decidi criar minha própria versão, para que pudesse oferecer uma alternativa sem depender das editoras e com isso ajudar outros desenvolvedores, que levam essa questão de direitos autorais a sério.
+
 ## Estrutura de Conteúdo
 
 Os arquivos do JFAAL estão organizados da seguinte forma:
