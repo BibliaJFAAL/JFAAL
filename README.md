@@ -13,7 +13,7 @@ Os arquivos do JFAAL estão organizados da seguinte forma:
 - **original**: Contém o arquivo JSON original, digitalizado a partir da tradução de 1911 de João Ferreira de Almeida.
 - **atualizado**: Abriga os arquivos atualizados, elaborados com base no texto original mencionado acima. O processo de atualização e correção foi realizado com o auxílio de inteligência artificial.
 
-## Como Dar Crédito
+## Como dar Crédito
 
 Ao utilizar a JFAAL, pedimos que mencione o autor da seguinte forma:
 
